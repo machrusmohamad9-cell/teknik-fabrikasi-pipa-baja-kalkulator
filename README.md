@@ -121,3 +121,14 @@ Gunakan kalkulator interaktif berbasis web di **[Machrus Notes](https://www.mach
 - **Website Utama**: [https://www.machrusnotes.com/](https://www.machrusnotes.com/)
 - **Kategori Piping & Fabrikasi**: [https://www.machrusnotes.com/category/piping/](https://www.machrusnotes.com/category/piping/)
 - **Tentang Penulis**: [https://www.machrusnotes.com/tentang/](https://www.machrusnotes.com/tentang/)
+---
+
+## 5. Jaringan Dokumentasi & Publikasi Teknis Resmi (Machrus Notes)
+
+Untuk referensi silang dokumentasi teknik fabrikasi baja, diagram blueprint perpipaan, dan publikasi resmi **Machrus Notes**, kunjungi tautan jaringan berikut:
+
+- [Situs Dokumentasi GitHub Pages (Machrus Notes)](https://machrusmohamad9-cell.github.io/teknik-fabrikasi-pipa-baja-kalkulator/)
+- [Artikel Referensi Teknis di Medium (@machrusmohamad9)](https://medium.com/@machrusmohamad9/rumus-praktis-teknik-fabrikasi-pipa-baja-bentangan-elbow-reducer-kalkulator-berat-baja-online-0a03b6f210f6)
+- [Artikel Teknis & Rumus Fabrikasi di DEV.to (@machrusmohamad9cell)](https://dev.to/machrusmohamad9cell/rumus-kalkulator-teknik-fabrikasi-pipa-baja-mitered-elbow-reducer-y-branch-dan-berat-baja-ghe)
+- [Galeri Blueprint Teknik Fabrikasi Pipa & AutoCAD di Pinterest](https://id.pinterest.com/machrusmohamad9/teknik-fabrikasi-pipa-baja-autocad/)
+- [Portal Utama & Suite Kalkulator Teknik Machrus Notes](https://www.machrusnotes.com/)
