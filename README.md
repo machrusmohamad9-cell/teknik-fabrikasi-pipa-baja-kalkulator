@@ -76,6 +76,10 @@ Gunakan kalkulator interaktif berbasis web di **[Machrus Notes](https://www.mach
 | **Profil Struktur** | **Kalkulator Berat Baja H-Beam** | [Hitung Berat H-Beam](https://www.machrusnotes.com/kalkulator-hitung-berat-baja/kalkulator-hitung-berat-baja-h-beam/) |
 | **Material Plat** | **Kalkulator Hitung Berat Plat Baja (Plate)** | [Hitung Berat Plat](https://www.machrusnotes.com/kalkulator-hitung-berat-baja/kalkulator-hitung-berat-plate/) |
 | **Profil Siku** | **Kalkulator Berat Baja Siku (Angle Bar)** | [Hitung Berat Besi Siku](https://www.machrusnotes.com/kalkulator-hitung-berat-baja-siku-angle-bar/) |
+| **Offset Pipa** | **Kalkulator Offset Pipa 45° & Rolling Offset 3D** | [Kalkulator Offset Pipa 45° & Rolling Offset 3D (Travel & Cut Length)](https://www.machrusnotes.com/kalkulator-fabrikasi-baja/kalkulator-offset-pipa-rolling-offset/) |
+| **Consumable Las** | **Kalkulator Kebutuhan Kawat Las (SMAW, GTAW & FCAW)** | [Kalkulator Menghitung Kebutuhan Kawat Las (SMAW, GTAW & FCAW)](https://www.machrusnotes.com/kalkulator-fabrikasi-baja/kalkulator-kebutuhan-kawat-las/) |
+| **Pipa Baja** | **Kalkulator Hitung Berat Pipa Baja (ASME B36.10M)** | [Kalkulator Hitung Berat Pipa Baja (Schedule 40, 80 & Custom OD)](https://www.machrusnotes.com/kalkulator-hitung-berat-baja/kalkulator-hitung-berat-pipa-baja/) |
+| **Kanal & Hollow** | **Kalkulator Berat Besi UNP, CNP, Hollow & Beton SNI** | [Kalkulator Berat Besi UNP, CNP, Hollow & Besi Beton SNI](https://www.machrusnotes.com/kalkulator-hitung-berat-baja/kalkulator-berat-unp-cnp-hollow-besi-beton/) |
 
 ---
 
